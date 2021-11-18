@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAuthTutorial</string>
+    <string name="title_activity_maps">MapsActivity</string>
+<!--    <string name="default_web_client_id">313644003906-fqs6p09pvmn1dstipcttq4it5a6jjajc.apps.googleusercontent.com</string>-->
+</resources>

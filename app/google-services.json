@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313644003906",
+    "project_id": "fir-authtutorial-965d2",
+    "storage_bucket": "fir-authtutorial-965d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313644003906:android:a3425c3c8c57a3036833db",
+        "android_client_info": {
+          "package_name": "com.ysanjeet535.firebaseauthtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313644003906-fqs6p09pvmn1dstipcttq4it5a6jjajc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXMV2ZmZVVEA8TAxQLjm_M23swn4TgQpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313644003906-fqs6p09pvmn1dstipcttq4it5a6jjajc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
